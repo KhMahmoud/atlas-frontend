@@ -1,4 +1,4 @@
-# BMS Frontend - Business Management System
+# Atlas-Frontend Enterprise resource planning
 
 ## Overview
 
